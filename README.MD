@@ -1,5 +1,5 @@
 # Meu repositório de aula GIT
-##AUTOR:Fábio Hiroshi
+## AUTOR:Fábio Hiroshi
 
 <h3> Itens que eu "aprendi" ( $ _ $ )
 
