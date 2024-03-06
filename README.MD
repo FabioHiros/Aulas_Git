@@ -9,5 +9,4 @@
 <li>commit</li>
 <li>push</li>
 <li>clone</li>
-##AUTOR:Fábio Hiroshi##AUTOR:Fábio Hiroshi
 </ul>
